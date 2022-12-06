@@ -21,6 +21,7 @@ I'm cute, ~~pay me~~.
 [afdian.net](https://afdian.net/a/woshishabi)
 
 > Mood unstable
+> stupid world, destroy before it's too late.
 
 <!---
 woshishabii/woshishabii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
