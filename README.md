@@ -1,5 +1,15 @@
 - 👋 Hi, I’m @woshishabii
 
+## Organisation
+
+CAP(Creep Among Projects) is committed to doing all kinds of bullshit small projects.
+
+## Goal
+- Live
+- Keep Happy
+- Learn Java & C/C++
+- Create an OS
+
 ## Projects I'm working on
 
 - NMSL v-Lithium - A light launcher for minecraft server
@@ -8,7 +18,9 @@
 
 ## Support
 I'm cute, ~~pay me~~.
-[爱发电](https://afdian.net/a/woshishabi)
+[afdian.net](https://afdian.net/a/woshishabi)
+
+> Mood unstable
 
 <!---
 woshishabii/woshishabii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
