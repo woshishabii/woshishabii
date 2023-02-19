@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @woshishabii 🏳️‍🌈 🏳️‍⚧️ 🍥
+- 👋 Hi, I’m @woshishabii
 
 ## Organisation
 
