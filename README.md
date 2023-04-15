@@ -4,7 +4,7 @@
 
 CAP(Creep Among Projects) is committed to doing all kinds of bullshit small projects.
 
-![card](https://github.com/你的 Github 用户名/netease-cloud-music-card/blob/main/card.svg)
+![card](https://github.com/woshishabii/netease-cloud-music-card/blob/main/card.svg)
 
 ## Goal
 - Live
