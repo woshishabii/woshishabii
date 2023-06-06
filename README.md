@@ -23,8 +23,7 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 I'm cute, ~~pay me~~.
 [afdian.net](https://afdian.net/a/woshishabi)
 
-> Mood unstable
-> stupid world, destroy before it's too late.
+> still trying to learn to be a normal one
 
 <!---
 woshishabii/woshishabii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
