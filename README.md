@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woshishabii
 
-Happy Pride Month ! lol
+Happy Pride Month 🏳️‍⚧️ 🍥:! lol
 
 ## Organisation
 
