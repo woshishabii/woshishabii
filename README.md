@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @woshishabii
 
-Happy Pride Month 🏳️‍⚧️ 🍥:! lol
-
 ## Organisation
 
 CAP(Creep Among Projects) is committed to doing all kinds of bullshit small projects.
