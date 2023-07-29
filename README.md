@@ -4,8 +4,10 @@
 
 CAP(Creep Among Projects) is committed to doing all kinds of bullshit small projects.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![card](https://github.com/woshishabii/netease-cloud-music-card/blob/main/card.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woshishabii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Goal
 - Live
