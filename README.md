@@ -5,6 +5,15 @@
 CAP(Creep Among Projects) is committed to doing all kinds of bullshit small projects.
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown         4 hrs 24 mins   ████████▓░░░░░░░░░░░░░░░░   34.73 %
+Rust             3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
+TOML             56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Other            51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+C                44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+```
+
 <!--END_SECTION:waka-->
 
 ![card](https://github.com/woshishabii/netease-cloud-music-card/blob/main/card.svg)
