@@ -7,11 +7,11 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 <!--START_SECTION:waka-->
 
 ```txt
-C++              4 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.20 %
-Python           1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-XML              1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Kotlin           59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-YAML             54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+C                2 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+C++              2 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+Python           1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+XML              1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Kotlin           59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
 <!--END_SECTION:waka-->
