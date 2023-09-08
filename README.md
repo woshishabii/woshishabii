@@ -7,8 +7,7 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 <!--START_SECTION:waka-->
 
 ```txt
-ActionScript   0 secs          ████████████████▒░░░░░░░░   64.92 %
-Python         0 secs          ████████▓░░░░░░░░░░░░░░░░   35.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
