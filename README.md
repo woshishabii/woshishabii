@@ -9,7 +9,11 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other            54 mins         █████████░░░░░░░░░░░░░░░░   36.64 %
+textmate         53 mins         █████████░░░░░░░░░░░░░░░░   35.65 %
+Python           15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Rust             13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+SQL              10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
 ```
 
 <!--END_SECTION:waka-->
