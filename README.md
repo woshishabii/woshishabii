@@ -6,7 +6,6 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 
 [![wakatime](https://wakatime.com/badge/user/34d02784-acc1-4a16-82d7-33fdb53c4ed6.svg)](https://wakatime.com/@34d02784-acc1-4a16-82d7-33fdb53c4ed6)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/23b9BdZ2WZnDSeDzNUTVvZ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <!--START_SECTION:waka-->
 
