@@ -4,6 +4,8 @@
 
 CAP(Creep Among Projects) is committed to doing all kinds of bullshit small projects.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woshishabii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![wakatime](https://wakatime.com/badge/user/34d02784-acc1-4a16-82d7-33fdb53c4ed6.svg)](https://wakatime.com/@34d02784-acc1-4a16-82d7-33fdb53c4ed6)
 
 
