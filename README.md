@@ -35,7 +35,7 @@ C                  7 mins          ░░░░░░░░░░░░░░░
 
 ## Support
 I'm cute, ~~pay me~~.
-[afdian.net](https://afdian.net/a/woshishabi)
+[afdian.net](https://afdian.com/a/woshishabi)
 
 > still trying to learn to be a normal one
 
