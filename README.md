@@ -25,7 +25,7 @@ Nobody ever watch this shit lol
 
 ## Support
 I'm cute, ~~pay me~~.
-[afdian.net](https://afdian.net/a/woshishabi)
+[afdian.net](https://afdian.com/a/woshishabi)
 
 <!---
 woshishabii/woshishabii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
