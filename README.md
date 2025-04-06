@@ -12,11 +12,11 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 <!--START_SECTION:waka-->
 
 ```txt
-Other         29 hrs 24 mins  █████████████▓░░░░░░░░░░░   55.06 %
-Java          8 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-Markdown      5 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-CMake         5 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Batchfile     3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Other         23 hrs 31 mins  █████████████░░░░░░░░░░░░   51.89 %
+Java          8 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Markdown      5 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Batchfile     3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+CMake         2 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
