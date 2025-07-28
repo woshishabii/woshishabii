@@ -12,11 +12,11 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 <!--START_SECTION:waka-->
 
 ```txt
-Other               10 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   45.01 %
-Gradle Kotlin DSL   7 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.70 %
-Rust                3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
-Shell               37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-YAML                16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other               19 hrs 22 mins  ██████████████▓░░░░░░░░░░   58.43 %
+Gradle Kotlin DSL   7 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
+Rust                3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+YAML                1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Shell               37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
