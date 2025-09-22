@@ -12,9 +12,9 @@ CAP(Creep Among Projects) is committed to doing all kinds of bullshit small proj
 <!--START_SECTION:waka-->
 
 ```txt
-fish    7 hrs 37 mins   ██████████████████▓░░░░░░   75.08 %
-Other   2 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
-CSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+fish    7 hrs 37 mins   ██████████████████▓░░░░░░   75.09 %
+Other   2 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
+CSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Go      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
